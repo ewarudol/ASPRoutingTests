@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPRoutingTests", "ASPRoutingTests\ASPRoutingTests.csproj", "{2195357B-0EDB-4EE4-BCA4-2AF6E34B22C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ASPRoutingTests.Tests", "ASPRoutingTests.Tests\ASPRoutingTests.Tests.csproj", "{D4ED2A8A-3B73-4AEB-873E-2A8105D4CD8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{2195357B-0EDB-4EE4-BCA4-2AF6E34B22C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2195357B-0EDB-4EE4-BCA4-2AF6E34B22C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2195357B-0EDB-4EE4-BCA4-2AF6E34B22C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4ED2A8A-3B73-4AEB-873E-2A8105D4CD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4ED2A8A-3B73-4AEB-873E-2A8105D4CD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4ED2A8A-3B73-4AEB-873E-2A8105D4CD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4ED2A8A-3B73-4AEB-873E-2A8105D4CD8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
